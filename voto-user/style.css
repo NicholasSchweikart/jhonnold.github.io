@@ -1,0 +1,10 @@
+body {
+    width: 100%;
+    text-align: center;
+}
+
+#centerContainer {
+    width: 900px;
+    text-align: center;
+    margin: 0px auto;
+}
